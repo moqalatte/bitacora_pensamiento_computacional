@@ -6,7 +6,7 @@
 
 ## Descripción del disco
 
-![Album la jardinera y su canto](../img/VioletaParra.jpg)
+![Album](img/VioletaParra.jpg)
 
 - La jardinera y su canto
 - 1997
