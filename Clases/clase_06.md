@@ -6,41 +6,37 @@
 
 ## Descripción del disco
 
-![Album la jardinera y su canto](./img/VioletaParra.jpg)
+![Album la jardinera y su canto](../img/VioletaParra.jpg)
 
 - La jardinera y su canto
 - 1997
 - Violeta Parra
 -  Tracklist
-La jardinera 3:00
-Parabienes al revés 2:03
-El chuico y la damajuana 2:15
-Por la mañanita 2:50
-El hijo arrepentido 4:11
-Por pasármelo toman… 1:35
-La inhumana 3:10
-Casamiento de negros 1:44
-A la una 3:21
-Amigos tengo por cientos 3:11
-Veintiuno son los dolores 2:15
-Verso por la niña muerta 3:31
-La muerte con anteojos 4:32
-Puerto Montt está temblando 5:47
-Pedro Urdemales 1:41
-Verso por despedida a Gabriela Mistral 3:46
-Escúchame, pequeño 2:11
-El diablo en el paraíso 3:05
-Qué dirá el Santo Padre 2:54
-Y arriba quemando el sol 3:14
-Verso por desengaño 4:56
-Cueca larga de los Meneses 4:23
-Defensa de Violeta Parra 5:34
-
 
 ```txt
-1. La jardinera
-2. Veintiuno son los dolores
-3. Verso por la niña muerta
+1. La jardinera 3:00
+2. Parabienes al revés 2:03
+3. El chuico y la damajuana 2:15
+4. Por la mañanita 2:50
+5. El hijo arrepentido 4:11
+6. Por pasármelo toman… 1:35
+7. La inhumana 3:10
+8. Casamiento de negros 1:44
+9. A la una 3:21
+10. Amigos tengo por cientos 3:11
+11. Veintiuno son los dolores 2:15
+12. Verso por la niña muerta 3:31
+13. La muerte con anteojos 4:32
+14. Puerto Montt está temblando 5:47
+15. Pedro Urdemales 1:41
+16. Verso por despedida a Gabriela Mistral 3:46
+17. Escúchame, pequeño 2:11
+18. El diablo en el paraíso 3:05
+19. Qué dirá el Santo Padre 2:54
+20. Y arriba quemando el sol 3:14
+21. Verso por desengaño 4:56
+22. Cueca larga de los Meneses 4:23
+23. Defensa de Violeta Parra 5:342.  
 ```
 
 - Aspecto del álbum a desarrollar (premisa)
